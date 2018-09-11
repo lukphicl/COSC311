@@ -13,7 +13,7 @@ public class JavaApplication2 {
         System.out.println("Here's your new, repeated array");
         int[] newArray = new int[newSize];
         
-        for (int i = 0; i < newSize; ++i) // Fills new array
+        for (int i = 0; i < newSize; ++i)
         {
             if ((i + 5) % 5 == 0)
                 newArray[i] = a [0];
