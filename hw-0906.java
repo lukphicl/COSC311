@@ -1,6 +1,6 @@
 // Luke Clover
 // HW 9/6/2018
-// and open the template in the editor.
+// https://github.com/lukphicl/COSC311/blob/master/hw-0906.java
 
 package javaapplication2;
 import java.util.Scanner;
