@@ -1,6 +1,6 @@
 // Luke Clover
 // HW 0911
-// https://github.com/lukphicl/COSC311/edit/master/LinkedList.java
+// https://github.com/lukphicl/COSC311/blob/master/LinkedList.java
 
 package linkedlist;
 
