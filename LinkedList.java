@@ -1,9 +1,8 @@
 // Luke Clover
-// HW 9/11/2018
-// https://github.com/lukphicl/COSC311/blob/master/hw-0906.java
+// HW 0911
+// https://github.com/lukphicl/COSC311/edit/master/LinkedList.java
 
 package linkedlist;
-
 
 public class LinkedList {
     
