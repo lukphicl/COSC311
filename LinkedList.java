@@ -26,7 +26,7 @@ public class LinkedList {
         }
     }
     
-    public void insert (double x)
+    public void insert (double x) // Appends to end of list
     {
         if (head == null) // Creates head node if list is empty
         {
@@ -54,7 +54,7 @@ public class LinkedList {
         System.out.println();
     }
     
-    public double findAvg()
+    public double findAvg() // Finds average value of list
     {
         int i = 0;
         double total = 0, mean = 0;
@@ -69,7 +69,7 @@ public class LinkedList {
         return mean;    
     }
     
-    public void deleteMore(double avg)
+    public void deleteMore(double avg) // Removes every value greater than average
     {
         node temp = head;
         node prev = null;
