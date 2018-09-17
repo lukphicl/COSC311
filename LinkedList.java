@@ -80,7 +80,7 @@ public class LinkedList {
             return;
         }
 
-        if (head != null && head.num > avg) // If head node needs to be deleted
+        while (head != null && head.num > avg) // If head node needs to be deleted
         {
             head = head.next;
             temp = head;
