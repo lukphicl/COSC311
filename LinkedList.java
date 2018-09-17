@@ -45,12 +45,8 @@ public class LinkedList {
     
     public void printList()
     {
-        node p = head;
-        while (p != null)
-        {
+        for (node p = head; p != null; p = p.next)
             System.out.print(p.num + " ");
-            p = p.next;
-        }
         System.out.println();
     }
     
