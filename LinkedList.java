@@ -26,7 +26,7 @@ public class LinkedList {
         }
     }
     
-    public void insert (double x) // Appends to end of list
+    public void insert(double x) // Appends to end of list
     {
         if (head == null) // Creates head node if list is empty
         {
